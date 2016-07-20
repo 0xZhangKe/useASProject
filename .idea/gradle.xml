@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityListView" />
+            <option value="$PROJECT_DIR$/AutoCompleteTextView" />
+            <option value="$PROJECT_DIR$/actionbar" />
+            <option value="$PROJECT_DIR$/actionbar_dropdownnav" />
+            <option value="$PROJECT_DIR$/actionbar_swipenav" />
+            <option value="$PROJECT_DIR$/actionbar_tabnav" />
+            <option value="$PROJECT_DIR$/actionhome" />
+            <option value="$PROJECT_DIR$/actionview" />
+            <option value="$PROJECT_DIR$/adapterviewflipper" />
+            <option value="$PROJECT_DIR$/alertdialog" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/choosedate" />
+            <option value="$PROJECT_DIR$/clock" />
+            <option value="$PROJECT_DIR$/contextmenu" />
+            <option value="$PROJECT_DIR$/expandablelistview" />
+            <option value="$PROJECT_DIR$/framelayouttest" />
+            <option value="$PROJECT_DIR$/grifview" />
+            <option value="$PROJECT_DIR$/imagebutton" />
+            <option value="$PROJECT_DIR$/imageswitcher" />
+            <option value="$PROJECT_DIR$/imageview" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/menu" />
+            <option value="$PROJECT_DIR$/numberpicker" />
+            <option value="$PROJECT_DIR$/popupwindow" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/ratingbar" />
+            <option value="$PROJECT_DIR$/searchview" />
+            <option value="$PROJECT_DIR$/seekbar" />
+            <option value="$PROJECT_DIR$/simpleadapter" />
+            <option value="$PROJECT_DIR$/stackview" />
+            <option value="$PROJECT_DIR$/tabhost" />
+            <option value="$PROJECT_DIR$/textswitcher" />
+            <option value="$PROJECT_DIR$/textviewtest" />
+            <option value="$PROJECT_DIR$/toast" />
+            <option value="$PROJECT_DIR$/viewflipper" />
+            <option value="$PROJECT_DIR$/viewswitcher" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityListView" />
+            <option value="$PROJECT_DIR$/AutoCompleteTextView" />
+            <option value="$PROJECT_DIR$/actionbar" />
+            <option value="$PROJECT_DIR$/actionbar_dropdownnav" />
+            <option value="$PROJECT_DIR$/actionbar_swipenav" />
+            <option value="$PROJECT_DIR$/actionbar_tabnav" />
+            <option value="$PROJECT_DIR$/actionhome" />
+            <option value="$PROJECT_DIR$/actionview" />
+            <option value="$PROJECT_DIR$/adapterviewflipper" />
+            <option value="$PROJECT_DIR$/alertdialog" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/choosedate" />
+            <option value="$PROJECT_DIR$/clock" />
+            <option value="$PROJECT_DIR$/contextmenu" />
+            <option value="$PROJECT_DIR$/expandablelistview" />
+            <option value="$PROJECT_DIR$/framelayouttest" />
+            <option value="$PROJECT_DIR$/grifview" />
+            <option value="$PROJECT_DIR$/imagebutton" />
+            <option value="$PROJECT_DIR$/imageswitcher" />
+            <option value="$PROJECT_DIR$/imageview" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/menu" />
+            <option value="$PROJECT_DIR$/numberpicker" />
+            <option value="$PROJECT_DIR$/popupwindow" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/ratingbar" />
+            <option value="$PROJECT_DIR$/searchview" />
+            <option value="$PROJECT_DIR$/seekbar" />
+            <option value="$PROJECT_DIR$/simpleadapter" />
+            <option value="$PROJECT_DIR$/stackview" />
+            <option value="$PROJECT_DIR$/tabhost" />
+            <option value="$PROJECT_DIR$/textswitcher" />
+            <option value="$PROJECT_DIR$/textviewtest" />
+            <option value="$PROJECT_DIR$/toast" />
+            <option value="$PROJECT_DIR$/viewflipper" />
+            <option value="$PROJECT_DIR$/viewswitcher" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>第一行代码</item>
+        <item>Android开发实例大全</item>
+        <item>疯狂Java讲义</item>
+        <item>疯狂Android讲义</item>
+        <item>Android群英传</item>
+        <item>Android编程权威指南</item>
+        <item>Android开发艺术探索</item>
+    </string-array>
+</resources>

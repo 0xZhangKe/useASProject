@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="字体大小"
+        android:icon="@drawable/ico">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/font_10"
+                    android:title="十号字体"/>
+                <item android:id="@+id/font_12"
+                    android:title="十二号字体"/>
+                <item android:id="@+id/font_14"
+                    android:title="十四号字体"/>
+                <item android:id="@+id/font_16"
+                    android:title="十六号字体"/>
+                <item android:id="@+id/font_18"
+                    android:title="十八号字体"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/plan_item"
+        android:title="普通菜单项">
+    </item>
+    <item android:title="字体颜色"
+        android:showAsAction="always"
+        android:icon="@drawable/ico">
+        <menu>
+            <group>
+                <item android:id="@+id/red_font"
+                    android:title="红色字体"/>
+                <item android:id="@+id/green_font"
+                    android:title="绿色字体"/>
+                <item android:id="@+id/blue_font"
+                    android:title="蓝色字体"/>
+            </group>
+        </menu>
+    </item>
+</menu>

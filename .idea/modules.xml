@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityListView/ActivityListView.iml" filepath="$PROJECT_DIR$/ActivityListView/ActivityListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoCompleteTextView/AutoCompleteTextView.iml" filepath="$PROJECT_DIR$/AutoCompleteTextView/AutoCompleteTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1.iml" filepath="$PROJECT_DIR$/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar/actionbar.iml" filepath="$PROJECT_DIR$/actionbar/actionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar_dropdownnav/actionbar_dropdownnav.iml" filepath="$PROJECT_DIR$/actionbar_dropdownnav/actionbar_dropdownnav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar_swipenav/actionbar_swipenav.iml" filepath="$PROJECT_DIR$/actionbar_swipenav/actionbar_swipenav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbar_tabnav/actionbar_tabnav.iml" filepath="$PROJECT_DIR$/actionbar_tabnav/actionbar_tabnav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionhome/actionhome.iml" filepath="$PROJECT_DIR$/actionhome/actionhome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionview/actionview.iml" filepath="$PROJECT_DIR$/actionview/actionview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterviewflipper/adapterviewflipper.iml" filepath="$PROJECT_DIR$/adapterviewflipper/adapterviewflipper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialog/alertdialog.iml" filepath="$PROJECT_DIR$/alertdialog/alertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/choosedate/choosedate.iml" filepath="$PROJECT_DIR$/choosedate/choosedate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock/clock.iml" filepath="$PROJECT_DIR$/clock/clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contextmenu/contextmenu.iml" filepath="$PROJECT_DIR$/contextmenu/contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistview/expandablelistview.iml" filepath="$PROJECT_DIR$/expandablelistview/expandablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framelayouttest/framelayouttest.iml" filepath="$PROJECT_DIR$/framelayouttest/framelayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grifview/grifview.iml" filepath="$PROJECT_DIR$/grifview/grifview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagebutton/imagebutton.iml" filepath="$PROJECT_DIR$/imagebutton/imagebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageswitcher/imageswitcher.iml" filepath="$PROJECT_DIR$/imageswitcher/imageswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageview/imageview.iml" filepath="$PROJECT_DIR$/imageview/imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberpicker/numberpicker.iml" filepath="$PROJECT_DIR$/numberpicker/numberpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindow/popupwindow.iml" filepath="$PROJECT_DIR$/popupwindow/popupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar/progressbar.iml" filepath="$PROJECT_DIR$/progressbar/progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratingbar/ratingbar.iml" filepath="$PROJECT_DIR$/ratingbar/ratingbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchview/searchview.iml" filepath="$PROJECT_DIR$/searchview/searchview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbar/seekbar.iml" filepath="$PROJECT_DIR$/seekbar/seekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleadapter/simpleadapter.iml" filepath="$PROJECT_DIR$/simpleadapter/simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackview/stackview.iml" filepath="$PROJECT_DIR$/stackview/stackview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabhost/tabhost.iml" filepath="$PROJECT_DIR$/tabhost/tabhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textswitcher/textswitcher.iml" filepath="$PROJECT_DIR$/textswitcher/textswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textviewtest/textviewtest.iml" filepath="$PROJECT_DIR$/textviewtest/textviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toast/toast.iml" filepath="$PROJECT_DIR$/toast/toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflipper/viewflipper.iml" filepath="$PROJECT_DIR$/viewflipper/viewflipper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewswitcher/viewswitcher.iml" filepath="$PROJECT_DIR$/viewswitcher/viewswitcher.iml" />
+    </modules>
+  </component>
+</project>
